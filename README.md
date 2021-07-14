@@ -1,4 +1,6 @@
 v1.0.0
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5101611.svg)](https://doi.org/10.5281/zenodo.5101611)
+<br>
 R code for Virus Watch serial interval analysis
 This code generates infector - infectee pairs from illness episodes data.
 
