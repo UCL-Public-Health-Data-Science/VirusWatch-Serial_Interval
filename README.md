@@ -1,5 +1,5 @@
 v1.0.0
-
+R code for Virus Watch serial interval analysis
 This code generates infector - infectee pairs from illness episodes data.
 
 The illness episode dataset will look like the below:
